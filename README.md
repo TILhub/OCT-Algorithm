@@ -1,4 +1,4 @@
-# Cloud-Algorithms
+## Cloud-Algorithms
 PEFT (OCT Rank) Algorithm 
 Efficient application scheduling algorithms are important for obtaining high performance in heterogeneous computing
 systems. In this paper, we present a novel list-based scheduling algorithm called Predict Earliest Finish Time (PEFT) for
